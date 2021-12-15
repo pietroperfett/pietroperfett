@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pietroperfett
 - 👀 I’m interested in py - HTTML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Rnd Password gen
-- 📫 How to reach me ...
+- 🌱 I’m currently learning The basics of python
+- 💞️ I’m looking to collaborate on //
+- 📫 How to reach me instagram or Anilist : pietroperfett
 
 <!---
 pietroperfett/pietroperfett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
