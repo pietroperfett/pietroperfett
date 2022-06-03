@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pietroperfett
-- 👀 I’m interested in py - HTTML
+- 👀 I’m interested in py - HTML
 - 🌱 I’m currently learning The basics of python
 - 💞️ I’m looking to collaborate on //
 - 📫 How to reach me instagram or Anilist : pietroperfett
