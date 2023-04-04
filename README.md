@@ -42,6 +42,7 @@
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/pietroperfett"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://ko-fi.com/pietroperfett"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png?_gl=1*1vet19y*_ga*MTg1OTE4NDE5OS4xNjgwNjM3MzQ2*_ga_M13FZ7VQ2C*MTY4MDYzNzM0Ni4xLjEuMTY4MDYzOTA3NC4yMy4wLjA.)](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png?_gl=1*1vet19y*_ga*MTg1OTE4NDE5OS4xNjgwNjM3MzQ2*_ga_M13FZ7VQ2C*MTY4MDYzNzM0Ni4xLjEuMTY4MDYzOTA3NC4yMy4wLjA.)](https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png" width="200" /></a>
+
 
 ==============================
