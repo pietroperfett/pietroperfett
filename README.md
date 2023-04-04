@@ -1,16 +1,47 @@
-### Hi there 👋
+💫 Hi I am pietroperfett
+==============================
 
-<!--
-**pietroperfett/pietroperfett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Junior Developer
 
-Here are some ideas to get you started:
+*   🌍  I'm based in Italy, my home
+*   🖥️  See my portfolio at [𝓟𝓲𝓽 𝑥 Projects](http://t.me/Piteasy)
+*   🚀  I'm currently working on [Telegram Bot](http://t.me/Piteasy)
+*   🧠  I'm learning JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+==============================
+
+### Skills 
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
+                    
+### Socials
+                  
+                  
+<p align="left">
+
+<a href="https://discord.com/users/pietroperfett#4091" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/pietroperfett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/pietroperfett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/18816013/pietroperfett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+==============================
+
+### Badges
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/pietroperfett"><img src="https://github-readme-stats.vercel.app/api?username=pietroperfett&show_icons=true&hide=commits,prs,&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="pietroperfett's GitHub stats" /></a><a href="http://www.github.com/pietroperfett"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pietroperfett&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/pietroperfett"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+==============================
