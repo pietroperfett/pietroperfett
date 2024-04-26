@@ -1,12 +1,7 @@
 💫 Hi I am pietroperfett
 ==============================
 
-> Junior Developer
-
-*   🌍  I'm based in Italy, my home
-*   🖥️  See my portfolio at [𝓟𝓲𝓽 𝑥 Projects](http://t.me/Piteasy)
-*   🚀  I'm currently working on [Telegram Bot](http://t.me/Piteasy)
-*   🧠  I'm learning JavaScript
+> Junior developer based in Italy, specializing in CSS and currently working on Telegram.
 
 ==============================
 
